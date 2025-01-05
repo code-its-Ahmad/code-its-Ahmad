@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-its-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="code-its-ahmad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-its-ahmad" alt="code-its-ahmad" /></a> </p>
-
 - 💬 Ask me about **Fun fact I think I'm funny**
 
 - 📫 How to reach me **Ahmadrajpootr1@gmail.com**
